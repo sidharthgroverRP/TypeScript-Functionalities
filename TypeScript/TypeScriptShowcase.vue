@@ -89,6 +89,7 @@ export default defineComponent({
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
+
 .showcase-app {
   font-family: 'Inter', Arial, sans-serif;
   background: linear-gradient(120deg, #f8fafc 0%, #e0e7ef 100%);
